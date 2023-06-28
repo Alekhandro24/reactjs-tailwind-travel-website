@@ -2,6 +2,7 @@
   "name": "webpack",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://Alekhandro24.github.io/webpack-template/",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
